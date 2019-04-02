@@ -1,0 +1,11 @@
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\C-Projetos\GamedaVelha\bin\Debug\netcoreapp2.1\GamedaVelha.deps.json
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\C-Projetos\GamedaVelha\bin\Debug\netcoreapp2.1\GamedaVelha.runtimeconfig.json
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\C-Projetos\GamedaVelha\bin\Debug\netcoreapp2.1\GamedaVelha.runtimeconfig.dev.json
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\C-Projetos\GamedaVelha\bin\Debug\netcoreapp2.1\GamedaVelha.dll
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\C-Projetos\GamedaVelha\bin\Debug\netcoreapp2.1\GamedaVelha.pdb
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\C-Projetos\GamedaVelha\obj\Debug\netcoreapp2.1\GamedaVelha.csprojAssemblyReference.cache
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\C-Projetos\GamedaVelha\obj\Debug\netcoreapp2.1\GamedaVelha.csproj.CoreCompileInputs.cache
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\C-Projetos\GamedaVelha\obj\Debug\netcoreapp2.1\GamedaVelha.AssemblyInfoInputs.cache
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\C-Projetos\GamedaVelha\obj\Debug\netcoreapp2.1\GamedaVelha.AssemblyInfo.cs
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\C-Projetos\GamedaVelha\obj\Debug\netcoreapp2.1\GamedaVelha.dll
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\C-Projetos\GamedaVelha\obj\Debug\netcoreapp2.1\GamedaVelha.pdb

@@ -9,7 +9,7 @@ namespace Ex_temperatura
             Console.WriteLine("Digite a previsão do tempo");
             string previsao = Console.ReadLine();
 
-            if (previsao == "calor"){
+            if (previsao "calor"){
                 Console.WriteLine("Vamos para a praia");
             }else if(previsao == "chuva"){
                 Console.WriteLine("Vamos para Steam?");
