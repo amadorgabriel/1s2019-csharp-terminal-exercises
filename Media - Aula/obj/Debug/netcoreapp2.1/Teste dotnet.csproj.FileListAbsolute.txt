@@ -1,0 +1,22 @@
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\Projetos\Teste dotnet\bin\Debug\netcoreapp2.1\Teste dotnet.deps.json
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\Projetos\Teste dotnet\bin\Debug\netcoreapp2.1\Teste dotnet.runtimeconfig.json
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\Projetos\Teste dotnet\bin\Debug\netcoreapp2.1\Teste dotnet.runtimeconfig.dev.json
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\Projetos\Teste dotnet\bin\Debug\netcoreapp2.1\Teste dotnet.dll
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\Projetos\Teste dotnet\bin\Debug\netcoreapp2.1\Teste dotnet.pdb
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\Projetos\Teste dotnet\obj\Debug\netcoreapp2.1\Teste dotnet.csprojAssemblyReference.cache
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\Projetos\Teste dotnet\obj\Debug\netcoreapp2.1\Teste dotnet.csproj.CoreCompileInputs.cache
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\Projetos\Teste dotnet\obj\Debug\netcoreapp2.1\Teste dotnet.AssemblyInfoInputs.cache
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\Projetos\Teste dotnet\obj\Debug\netcoreapp2.1\Teste dotnet.AssemblyInfo.cs
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\Projetos\Teste dotnet\obj\Debug\netcoreapp2.1\Teste dotnet.dll
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\Projetos\Teste dotnet\obj\Debug\netcoreapp2.1\Teste dotnet.pdb
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\Projetos\Media - Aula\bin\Debug\netcoreapp2.1\Teste dotnet.deps.json
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\Projetos\Media - Aula\bin\Debug\netcoreapp2.1\Teste dotnet.runtimeconfig.json
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\Projetos\Media - Aula\bin\Debug\netcoreapp2.1\Teste dotnet.runtimeconfig.dev.json
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\Projetos\Media - Aula\bin\Debug\netcoreapp2.1\Teste dotnet.dll
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\Projetos\Media - Aula\bin\Debug\netcoreapp2.1\Teste dotnet.pdb
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\Projetos\Media - Aula\obj\Debug\netcoreapp2.1\Teste dotnet.csprojAssemblyReference.cache
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\Projetos\Media - Aula\obj\Debug\netcoreapp2.1\Teste dotnet.csproj.CoreCompileInputs.cache
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\Projetos\Media - Aula\obj\Debug\netcoreapp2.1\Teste dotnet.AssemblyInfoInputs.cache
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\Projetos\Media - Aula\obj\Debug\netcoreapp2.1\Teste dotnet.AssemblyInfo.cs
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\Projetos\Media - Aula\obj\Debug\netcoreapp2.1\Teste dotnet.dll
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\Projetos\Media - Aula\obj\Debug\netcoreapp2.1\Teste dotnet.pdb

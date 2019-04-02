@@ -1,0 +1,11 @@
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\Projetos\Primeiro Projeto\bin\Debug\netcoreapp2.1\Primeiro Projeto.deps.json
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\Projetos\Primeiro Projeto\bin\Debug\netcoreapp2.1\Primeiro Projeto.runtimeconfig.json
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\Projetos\Primeiro Projeto\bin\Debug\netcoreapp2.1\Primeiro Projeto.runtimeconfig.dev.json
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\Projetos\Primeiro Projeto\bin\Debug\netcoreapp2.1\Primeiro Projeto.dll
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\Projetos\Primeiro Projeto\bin\Debug\netcoreapp2.1\Primeiro Projeto.pdb
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\Projetos\Primeiro Projeto\obj\Debug\netcoreapp2.1\Primeiro Projeto.csprojAssemblyReference.cache
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\Projetos\Primeiro Projeto\obj\Debug\netcoreapp2.1\Primeiro Projeto.csproj.CoreCompileInputs.cache
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\Projetos\Primeiro Projeto\obj\Debug\netcoreapp2.1\Primeiro Projeto.AssemblyInfoInputs.cache
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\Projetos\Primeiro Projeto\obj\Debug\netcoreapp2.1\Primeiro Projeto.AssemblyInfo.cs
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\Projetos\Primeiro Projeto\obj\Debug\netcoreapp2.1\Primeiro Projeto.dll
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\Projetos\Primeiro Projeto\obj\Debug\netcoreapp2.1\Primeiro Projeto.pdb
