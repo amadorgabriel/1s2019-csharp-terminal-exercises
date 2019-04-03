@@ -9,28 +9,23 @@ namespace Switch
             Console.WriteLine("Escreva-me aode vais-te passear?");
             string passeio = Console.ReadLine();
 
-            Switch(passeio)
-            {
-                case 1:
-                    Console.WriteLine();
-                    break;
-                
+            switch(passeio){
+                case "Montanha":
+                Console.WriteLine("Rio Grande do Sul");
+                break;
 
-                case 2:
-                    Console.WriteLine();
-                    break;
-                
+                case "Lago":
+                Console.WriteLine("Acre");
+                break;
 
-                case 3:
-                    Console.WriteLine();
-                    break;
-                
+                case "Rio de Janeiro":
+                Console.WriteLine("Paraná");
+                break;
 
-                default{
-                    Console.WriteLine();
-                    break;
-                }
-            
+                default:
+                Console.WriteLine("É fica em casa mn");
+                break;
+        
             }
         }
     }
