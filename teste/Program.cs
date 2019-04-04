@@ -3,22 +3,22 @@
 namespace teste {
     class Program {
         static void Main (string[] args) {
-            Console.WriteLine("Aonde quer ir passear?");
-            string entrada = Console.ReadLine().ToLower();    
+            Console.WriteLine ("Aonde quer ir passear?");
+            string entrada = Console.ReadLine ().ToLower ();
 
-            switch(entrada){
+            switch (entrada) {
                 case "montanha":
-                Console.WriteLine("ta quente");
-                break;
+                    Console.WriteLine ("ta quente");
+                    break;
                 case "parque":
-                Console.WriteLine("to com frio");
-                break;
-                
+                    Console.WriteLine ("to com frio");
+                    break;
+
                 default:
-                Console.WriteLine("nada faz sentido");
-                break;
+                    Console.WriteLine ("nada faz sentido");
+                    break;
             }
-        
+
         }
     }
 }

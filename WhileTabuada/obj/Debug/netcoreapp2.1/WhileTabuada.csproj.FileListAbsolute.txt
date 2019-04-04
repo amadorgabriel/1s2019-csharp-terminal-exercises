@@ -9,3 +9,14 @@ C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprin
 C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\C-Projetos\WhileTabuada\obj\Debug\netcoreapp2.1\WhileTabuada.AssemblyInfo.cs
 C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\C-Projetos\WhileTabuada\obj\Debug\netcoreapp2.1\WhileTabuada.dll
 C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\C-Projetos\WhileTabuada\obj\Debug\netcoreapp2.1\WhileTabuada.pdb
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\WhileTabuada\obj\Debug\netcoreapp2.1\WhileTabuada.csprojAssemblyReference.cache
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\WhileTabuada\obj\Debug\netcoreapp2.1\WhileTabuada.csproj.CoreCompileInputs.cache
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\WhileTabuada\obj\Debug\netcoreapp2.1\WhileTabuada.AssemblyInfoInputs.cache
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\WhileTabuada\obj\Debug\netcoreapp2.1\WhileTabuada.AssemblyInfo.cs
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\WhileTabuada\obj\Debug\netcoreapp2.1\WhileTabuada.dll
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\WhileTabuada\obj\Debug\netcoreapp2.1\WhileTabuada.pdb
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\WhileTabuada\bin\Debug\netcoreapp2.1\WhileTabuada.deps.json
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\WhileTabuada\bin\Debug\netcoreapp2.1\WhileTabuada.runtimeconfig.json
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\WhileTabuada\bin\Debug\netcoreapp2.1\WhileTabuada.runtimeconfig.dev.json
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\WhileTabuada\bin\Debug\netcoreapp2.1\WhileTabuada.dll
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\WhileTabuada\bin\Debug\netcoreapp2.1\WhileTabuada.pdb

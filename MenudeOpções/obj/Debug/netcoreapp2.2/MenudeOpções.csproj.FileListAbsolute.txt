@@ -1,0 +1,11 @@
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\MenudeOpções\bin\Debug\netcoreapp2.2\MenudeOpções.deps.json
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\MenudeOpções\bin\Debug\netcoreapp2.2\MenudeOpções.runtimeconfig.json
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\MenudeOpções\bin\Debug\netcoreapp2.2\MenudeOpções.runtimeconfig.dev.json
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\MenudeOpções\bin\Debug\netcoreapp2.2\MenudeOpções.dll
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\MenudeOpções\bin\Debug\netcoreapp2.2\MenudeOpções.pdb
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\MenudeOpções\obj\Debug\netcoreapp2.2\MenudeOpções.csprojAssemblyReference.cache
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\MenudeOpções\obj\Debug\netcoreapp2.2\MenudeOpções.csproj.CoreCompileInputs.cache
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\MenudeOpções\obj\Debug\netcoreapp2.2\MenudeOpções.AssemblyInfoInputs.cache
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\MenudeOpções\obj\Debug\netcoreapp2.2\MenudeOpções.AssemblyInfo.cs
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\MenudeOpções\obj\Debug\netcoreapp2.2\MenudeOpções.dll
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\MenudeOpções\obj\Debug\netcoreapp2.2\MenudeOpções.pdb

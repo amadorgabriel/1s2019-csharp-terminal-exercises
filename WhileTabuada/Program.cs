@@ -1,42 +1,35 @@
 ﻿using System;
+using System.Threading;
 
-namespace WhileTabuada
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            bool repetir = True;
+namespace WhileTabuada {
+    class Program {
+        static void Main (string[] args) {
 
-            while (repetir)
-            {
 
-                while (contador <= 10)
-                {
-                    int contador = 0;
-                    Console.WriteLine("Qual tabuada você deseja ?");
-                    int numero = int.Parse(Console.ReadLine());
+            bool fazTabuada = true;
+            while (fazTabuada != false) {
 
-                    int resultado = numero * contador;
-                    System.Console.WriteLine("{0} x {1} = {2}", numero, contador, resultado);
-                    contador = contador + 1;
+                System.Console.WriteLine ("Escolha um número para calcular a tabuada");
+                int numero = int.Parse (Console.ReadLine ());
+                System.Console.WriteLine ("Aguarde um momento...");
+
+                /** Adicionar drama! */
+                Thread.Sleep (2000);
+
+                int mult = 0;
+                while (mult <= 10) {
+                    int resultado = numero * mult;
+                    System.Console.WriteLine ("{0} x {1} = {2}", numero, mult, resultado);
+                    mult = mult + 1;
                 }
-
+                System.Console.WriteLine ("TADAAAAA!");
+                System.Console.WriteLine ("Deseja continuar?");
+                string resposta = Console.ReadLine ();
+                fazTabuada = resposta.Equals ("sim") ? true : false;
             }
 
-            Console.WriteLine("Eai meu chegado quer outra vez?");
-            string resposta = Console.ReadLine();
-
-            if (resposta.Equals("sim")){
-                repetir = True;
-            }else{
-                repetir = False;
-            }
+           
             //repetir = resposta.Equals("sim") ? True : False;
-
-
-
-
 
         }
     }
