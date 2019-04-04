@@ -1,0 +1,11 @@
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\C-Projetos\QuantidadePares\obj\Debug\netcoreapp2.1\QuantidadePares.csprojAssemblyReference.cache
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\C-Projetos\QuantidadePares\obj\Debug\netcoreapp2.1\QuantidadePares.csproj.CoreCompileInputs.cache
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\C-Projetos\QuantidadePares\obj\Debug\netcoreapp2.1\QuantidadePares.AssemblyInfoInputs.cache
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\C-Projetos\QuantidadePares\obj\Debug\netcoreapp2.1\QuantidadePares.AssemblyInfo.cs
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\C-Projetos\QuantidadePares\bin\Debug\netcoreapp2.1\QuantidadePares.deps.json
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\C-Projetos\QuantidadePares\bin\Debug\netcoreapp2.1\QuantidadePares.runtimeconfig.json
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\C-Projetos\QuantidadePares\bin\Debug\netcoreapp2.1\QuantidadePares.runtimeconfig.dev.json
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\C-Projetos\QuantidadePares\bin\Debug\netcoreapp2.1\QuantidadePares.dll
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\C-Projetos\QuantidadePares\bin\Debug\netcoreapp2.1\QuantidadePares.pdb
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\C-Projetos\QuantidadePares\obj\Debug\netcoreapp2.1\QuantidadePares.dll
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\C-Projetos\QuantidadePares\obj\Debug\netcoreapp2.1\QuantidadePares.pdb
