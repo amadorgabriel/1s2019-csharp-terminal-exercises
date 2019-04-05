@@ -32,7 +32,7 @@ namespace GamedaVelha
 
                 if (comparaçao == 0)
                 {
-                    Console.WriteLine("O numero é par, logo");
+                    Console.WriteLine("O numero {0} é par, logo", resultado);
                     string par = "par";
 
                     if (decisao == par)
@@ -47,7 +47,7 @@ namespace GamedaVelha
                 }
                 else
                 {
-                    Console.WriteLine("O numero é Impar, logo..");
+                    Console.WriteLine("O numero {0} é Impar, logo..", resultado);
                     string impar = "impar";
                     if (decisao == impar)
                     {

@@ -12,13 +12,13 @@ namespace QuantidadePares
 
             for (int i = 0; i <= numero; i++)
             {
-                if (i % 2 == 0)
+                if (i % 2 == 0) //Ciclo "separado"
                 {
                     System.Console.WriteLine(i);
                     QuantidadePares ++;
                 }
             }
-            System.Console.WriteLine("A quantia de Pares é:", QuantidadePares);
+            System.Console.WriteLine("A quantia de Pares é: {0}", QuantidadePares);
 
         }
     }

@@ -7,17 +7,17 @@ namespace Ex5.baladinha
         static void Main(string[] args)
         {
             Console.WriteLine("Ai, você está disponivel para uma baladinha meu brother?");
-            string disponibilidade = Console.ReadLine();
+            string disponibilidade = Console.ReadLine().ToLower();
 
             if(disponibilidade == "não"){
                 Console.WriteLine("É uma pena");   
             }else{ // if(disponibilidade == "sim")
                 Console.WriteLine("Você é menor de dezoito anos?");
-                string r1 = Console.ReadLine();
+                string r1 = Console.ReadLine().ToLower();
 
                 if(r1 == "sim"){
                     Console.WriteLine("O teu rolê é matinê?");
-                    string r2 = Console.ReadLine();
+                    string r2 = Console.ReadLine().ToLower();
                     if(r2 == "sim"){
                         Console.WriteLine("SEEEEXXXTOU!");
                     }else{
@@ -26,13 +26,13 @@ namespace Ex5.baladinha
 
                 }else if(r1 == "não"){
                     Console.WriteLine("Você pagou a entrada?");
-                    string entrada = Console.ReadLine();
+                    string entrada = Console.ReadLine().ToLower();
 
                     if(entrada == "sim" ){
                         Console.WriteLine("SEXTOOOUUU");
                     }else{
                         Console.WriteLine("Você tem cartão VIP?");
-                        string vip = Console.ReadLine();
+                        string vip = Console.ReadLine().ToLower();
 
                         if(vip == "sim"){
                             Console.WriteLine("SEEXXXTOUUU");

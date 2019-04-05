@@ -1,0 +1,11 @@
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\DesenhoPirâmide\bin\Debug\netcoreapp2.2\DesenhoPirâmide.deps.json
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\DesenhoPirâmide\bin\Debug\netcoreapp2.2\DesenhoPirâmide.runtimeconfig.json
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\DesenhoPirâmide\bin\Debug\netcoreapp2.2\DesenhoPirâmide.runtimeconfig.dev.json
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\DesenhoPirâmide\bin\Debug\netcoreapp2.2\DesenhoPirâmide.dll
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\DesenhoPirâmide\bin\Debug\netcoreapp2.2\DesenhoPirâmide.pdb
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\DesenhoPirâmide\obj\Debug\netcoreapp2.2\DesenhoPirâmide.csprojAssemblyReference.cache
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\DesenhoPirâmide\obj\Debug\netcoreapp2.2\DesenhoPirâmide.csproj.CoreCompileInputs.cache
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\DesenhoPirâmide\obj\Debug\netcoreapp2.2\DesenhoPirâmide.AssemblyInfoInputs.cache
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\DesenhoPirâmide\obj\Debug\netcoreapp2.2\DesenhoPirâmide.AssemblyInfo.cs
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\DesenhoPirâmide\obj\Debug\netcoreapp2.2\DesenhoPirâmide.dll
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\DesenhoPirâmide\obj\Debug\netcoreapp2.2\DesenhoPirâmide.pdb

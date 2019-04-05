@@ -9,3 +9,14 @@ C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprin
 C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\Projetos\MédiaAritmética\bin\Debug\netcoreapp2.1\MédiaAritmética.pdb
 C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\Projetos\MédiaAritmética\obj\Debug\netcoreapp2.1\MédiaAritmética.dll
 C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\Projetos\MédiaAritmética\obj\Debug\netcoreapp2.1\MédiaAritmética.pdb
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\MédiaAritmética\bin\Debug\netcoreapp2.1\MédiaAritmética.deps.json
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\MédiaAritmética\bin\Debug\netcoreapp2.1\MédiaAritmética.runtimeconfig.json
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\MédiaAritmética\bin\Debug\netcoreapp2.1\MédiaAritmética.runtimeconfig.dev.json
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\MédiaAritmética\bin\Debug\netcoreapp2.1\MédiaAritmética.dll
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\MédiaAritmética\bin\Debug\netcoreapp2.1\MédiaAritmética.pdb
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\MédiaAritmética\obj\Debug\netcoreapp2.1\MédiaAritmética.csprojAssemblyReference.cache
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\MédiaAritmética\obj\Debug\netcoreapp2.1\MédiaAritmética.csproj.CoreCompileInputs.cache
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\MédiaAritmética\obj\Debug\netcoreapp2.1\MédiaAritmética.AssemblyInfoInputs.cache
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\MédiaAritmética\obj\Debug\netcoreapp2.1\MédiaAritmética.AssemblyInfo.cs
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\MédiaAritmética\obj\Debug\netcoreapp2.1\MédiaAritmética.dll
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\MédiaAritmética\obj\Debug\netcoreapp2.1\MédiaAritmética.pdb

@@ -9,3 +9,14 @@ C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprin
 C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\C-Projetos\Ex5.baladinha\obj\Debug\netcoreapp2.1\Ex5.baladinha.AssemblyInfo.cs
 C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\C-Projetos\Ex5.baladinha\obj\Debug\netcoreapp2.1\Ex5.baladinha.dll
 C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\Aulas C#\C-Projetos\Ex5.baladinha\obj\Debug\netcoreapp2.1\Ex5.baladinha.pdb
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\Ex5.baladinha\bin\Debug\netcoreapp2.1\Ex5.baladinha.deps.json
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\Ex5.baladinha\bin\Debug\netcoreapp2.1\Ex5.baladinha.runtimeconfig.json
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\Ex5.baladinha\bin\Debug\netcoreapp2.1\Ex5.baladinha.runtimeconfig.dev.json
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\Ex5.baladinha\bin\Debug\netcoreapp2.1\Ex5.baladinha.dll
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\Ex5.baladinha\bin\Debug\netcoreapp2.1\Ex5.baladinha.pdb
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\Ex5.baladinha\obj\Debug\netcoreapp2.1\Ex5.baladinha.csprojAssemblyReference.cache
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\Ex5.baladinha\obj\Debug\netcoreapp2.1\Ex5.baladinha.csproj.CoreCompileInputs.cache
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\Ex5.baladinha\obj\Debug\netcoreapp2.1\Ex5.baladinha.AssemblyInfoInputs.cache
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\Ex5.baladinha\obj\Debug\netcoreapp2.1\Ex5.baladinha.AssemblyInfo.cs
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\Ex5.baladinha\obj\Debug\netcoreapp2.1\Ex5.baladinha.dll
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\Ex5.baladinha\obj\Debug\netcoreapp2.1\Ex5.baladinha.pdb

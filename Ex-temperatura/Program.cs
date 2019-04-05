@@ -6,11 +6,12 @@ namespace Ex_temperatura
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Digite a previsão do tempo");
+            Console.WriteLine("Digite a previsão do tempo atual");
             string previsao = Console.ReadLine();
 
-            if (previsao "calor"){
+            if (previsao == "calor"){
                 Console.WriteLine("Vamos para a praia");
+
             }else if(previsao == "chuva"){
                 Console.WriteLine("Vamos para Steam?");
                 string resposta = Console.ReadLine();
@@ -22,7 +23,7 @@ namespace Ex_temperatura
                 }
 
             }else{
-                Console.WriteLine("Vamos para a montanha");
+                Console.WriteLine("Que tai ir a uma montanha?");
             }
 
         }
