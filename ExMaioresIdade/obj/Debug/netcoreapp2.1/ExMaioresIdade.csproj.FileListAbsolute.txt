@@ -1,0 +1,11 @@
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\C-SHARP (TRUE)\ExMaioresIdade\bin\Debug\netcoreapp2.1\ExMaioresIdade.deps.json
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\C-SHARP (TRUE)\ExMaioresIdade\bin\Debug\netcoreapp2.1\ExMaioresIdade.runtimeconfig.json
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\C-SHARP (TRUE)\ExMaioresIdade\bin\Debug\netcoreapp2.1\ExMaioresIdade.runtimeconfig.dev.json
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\C-SHARP (TRUE)\ExMaioresIdade\bin\Debug\netcoreapp2.1\ExMaioresIdade.dll
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\C-SHARP (TRUE)\ExMaioresIdade\bin\Debug\netcoreapp2.1\ExMaioresIdade.pdb
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\C-SHARP (TRUE)\ExMaioresIdade\obj\Debug\netcoreapp2.1\ExMaioresIdade.csprojAssemblyReference.cache
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\C-SHARP (TRUE)\ExMaioresIdade\obj\Debug\netcoreapp2.1\ExMaioresIdade.csproj.CoreCompileInputs.cache
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\C-SHARP (TRUE)\ExMaioresIdade\obj\Debug\netcoreapp2.1\ExMaioresIdade.AssemblyInfoInputs.cache
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\C-SHARP (TRUE)\ExMaioresIdade\obj\Debug\netcoreapp2.1\ExMaioresIdade.AssemblyInfo.cs
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\C-SHARP (TRUE)\ExMaioresIdade\obj\Debug\netcoreapp2.1\ExMaioresIdade.dll
+C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\C-SHARP (TRUE)\ExMaioresIdade\obj\Debug\netcoreapp2.1\ExMaioresIdade.pdb
