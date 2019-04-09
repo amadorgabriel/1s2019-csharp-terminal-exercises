@@ -1,0 +1,11 @@
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\areaGeometrica\obj\Debug\netcoreapp2.2\areaGeometrica.csprojAssemblyReference.cache
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\areaGeometrica\obj\Debug\netcoreapp2.2\areaGeometrica.csproj.CoreCompileInputs.cache
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\areaGeometrica\obj\Debug\netcoreapp2.2\areaGeometrica.AssemblyInfoInputs.cache
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\areaGeometrica\obj\Debug\netcoreapp2.2\areaGeometrica.AssemblyInfo.cs
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\areaGeometrica\bin\Debug\netcoreapp2.2\areaGeometrica.deps.json
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\areaGeometrica\bin\Debug\netcoreapp2.2\areaGeometrica.runtimeconfig.json
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\areaGeometrica\bin\Debug\netcoreapp2.2\areaGeometrica.runtimeconfig.dev.json
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\areaGeometrica\bin\Debug\netcoreapp2.2\areaGeometrica.dll
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\areaGeometrica\bin\Debug\netcoreapp2.2\areaGeometrica.pdb
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\areaGeometrica\obj\Debug\netcoreapp2.2\areaGeometrica.dll
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\areaGeometrica\obj\Debug\netcoreapp2.2\areaGeometrica.pdb

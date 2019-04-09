@@ -14,16 +14,24 @@ namespace desenhoPiramideDiferenciado {
             //}
 
 
-            System.Console.WriteLine ("Coé, digita ae a quantidade de triângulos parça!");
+            System.Console.Write("Quantidade de triangulos: ");
             int quantT = int.Parse(Console.ReadLine());
-            System.Console.WriteLine("Por obséquio, necessito da altura dos Triângulos");
+            System.Console.Write("Dimensões dos Triângulos: ");
             int tamanhoT = int.Parse(Console.ReadLine());
             
-            string asterisco = " ";
-            for (int i = 0; i < quantT; i++)
+            int a = 0;
+            while (a < quantT)
             {
-                System.Console.WriteLine("*" + tamanhoT);
+
+            string asterisco = "";
+            for (int i = 0; i < tamanhoT; i++)
+            {
+                System.Console.WriteLine("*" +asterisco);
                 asterisco = asterisco + "*";
+                
+            }
+
+            a++;
                 
             }
 

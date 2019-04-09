@@ -9,3 +9,14 @@ C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprin
 C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\C-SHARP (TRUE)\desenhoPiramideDiferenciado\obj\Debug\netcoreapp2.1\desenhoPiramideDiferenciado.AssemblyInfo.cs
 C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\C-SHARP (TRUE)\desenhoPiramideDiferenciado\obj\Debug\netcoreapp2.1\desenhoPiramideDiferenciado.dll
 C:\Users\44680781890\Documents\Gabriel Rodrigues Amador - Tarde -Dev. Sist\Sprint 4\C-SHARP (TRUE)\desenhoPiramideDiferenciado\obj\Debug\netcoreapp2.1\desenhoPiramideDiferenciado.pdb
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\desenhoPiramideDiferenciado\bin\Debug\netcoreapp2.1\desenhoPiramideDiferenciado.deps.json
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\desenhoPiramideDiferenciado\bin\Debug\netcoreapp2.1\desenhoPiramideDiferenciado.runtimeconfig.json
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\desenhoPiramideDiferenciado\bin\Debug\netcoreapp2.1\desenhoPiramideDiferenciado.runtimeconfig.dev.json
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\desenhoPiramideDiferenciado\bin\Debug\netcoreapp2.1\desenhoPiramideDiferenciado.dll
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\desenhoPiramideDiferenciado\bin\Debug\netcoreapp2.1\desenhoPiramideDiferenciado.pdb
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\desenhoPiramideDiferenciado\obj\Debug\netcoreapp2.1\desenhoPiramideDiferenciado.csprojAssemblyReference.cache
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\desenhoPiramideDiferenciado\obj\Debug\netcoreapp2.1\desenhoPiramideDiferenciado.csproj.CoreCompileInputs.cache
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\desenhoPiramideDiferenciado\obj\Debug\netcoreapp2.1\desenhoPiramideDiferenciado.AssemblyInfoInputs.cache
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\desenhoPiramideDiferenciado\obj\Debug\netcoreapp2.1\desenhoPiramideDiferenciado.AssemblyInfo.cs
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\desenhoPiramideDiferenciado\obj\Debug\netcoreapp2.1\desenhoPiramideDiferenciado.dll
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\desenhoPiramideDiferenciado\obj\Debug\netcoreapp2.1\desenhoPiramideDiferenciado.pdb

@@ -1,0 +1,11 @@
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\manipulaçaoNumeros\bin\Debug\netcoreapp2.2\manipulaçaoNumeros.deps.json
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\manipulaçaoNumeros\bin\Debug\netcoreapp2.2\manipulaçaoNumeros.runtimeconfig.json
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\manipulaçaoNumeros\bin\Debug\netcoreapp2.2\manipulaçaoNumeros.runtimeconfig.dev.json
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\manipulaçaoNumeros\bin\Debug\netcoreapp2.2\manipulaçaoNumeros.dll
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\manipulaçaoNumeros\bin\Debug\netcoreapp2.2\manipulaçaoNumeros.pdb
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\manipulaçaoNumeros\obj\Debug\netcoreapp2.2\manipulaçaoNumeros.csprojAssemblyReference.cache
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\manipulaçaoNumeros\obj\Debug\netcoreapp2.2\manipulaçaoNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\manipulaçaoNumeros\obj\Debug\netcoreapp2.2\manipulaçaoNumeros.AssemblyInfoInputs.cache
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\manipulaçaoNumeros\obj\Debug\netcoreapp2.2\manipulaçaoNumeros.AssemblyInfo.cs
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\manipulaçaoNumeros\obj\Debug\netcoreapp2.2\manipulaçaoNumeros.dll
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\manipulaçaoNumeros\obj\Debug\netcoreapp2.2\manipulaçaoNumeros.pdb

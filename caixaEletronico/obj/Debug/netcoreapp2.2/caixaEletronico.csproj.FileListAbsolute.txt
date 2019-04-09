@@ -1,0 +1,11 @@
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\caixaEletronico\bin\Debug\netcoreapp2.2\caixaEletronico.deps.json
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\caixaEletronico\bin\Debug\netcoreapp2.2\caixaEletronico.runtimeconfig.json
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\caixaEletronico\bin\Debug\netcoreapp2.2\caixaEletronico.runtimeconfig.dev.json
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\caixaEletronico\bin\Debug\netcoreapp2.2\caixaEletronico.dll
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\caixaEletronico\bin\Debug\netcoreapp2.2\caixaEletronico.pdb
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\caixaEletronico\obj\Debug\netcoreapp2.2\caixaEletronico.csprojAssemblyReference.cache
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\caixaEletronico\obj\Debug\netcoreapp2.2\caixaEletronico.csproj.CoreCompileInputs.cache
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\caixaEletronico\obj\Debug\netcoreapp2.2\caixaEletronico.AssemblyInfoInputs.cache
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\caixaEletronico\obj\Debug\netcoreapp2.2\caixaEletronico.AssemblyInfo.cs
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\caixaEletronico\obj\Debug\netcoreapp2.2\caixaEletronico.dll
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\C-Projetos\caixaEletronico\obj\Debug\netcoreapp2.2\caixaEletronico.pdb
