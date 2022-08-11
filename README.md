@@ -1,12 +1,9 @@
 # Exercicios C# no Terminal - 1T Dev. de Sistemas 
 Introdução a lógica de programação.
-
-## 📝 Projetos
-
 Desafios propostos no primeiro semestre do curso de Desenvolvimento de Sistemas SENAI, com intuito de desenvolver aplicações C# no Teminal.
 
 
-### Lista de Desafios
+## 📝Lista de Desafios
 
 - `/age-permission` 
 - `/arithmetic-average`
@@ -29,7 +26,7 @@ Desafios propostos no primeiro semestre do curso de Desenvolvimento de Sistemas 
 - `/variables` 
 
 
-### Conhecimentos trabalhados
+## 🧠 Conhecimentos trabalhados
 
 - Lógica de programação;
 - Estrutura de dados;
